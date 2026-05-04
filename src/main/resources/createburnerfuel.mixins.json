@@ -6,7 +6,8 @@
     "BlockBehaviourMixin",
     "BlockMixin",
     "HotAirBurnerBlockEntityMixin",
-    "HotAirBurnerBlockMixin"
+    "HotAirBurnerBlockMixin",
+    "IWrenchableMixin"
   ],
   "injectors": {
     "defaultRequire": 1
